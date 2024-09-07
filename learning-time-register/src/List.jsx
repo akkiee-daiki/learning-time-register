@@ -10,8 +10,10 @@ export const List = () => {
           </tr>
         </thead>
         <tbody>
-          <td>算数</td>
-          <td>1 時間</td>
+          <tr>
+            <td>算数</td>
+            <td>1 時間</td>
+          </tr>
         </tbody>
         
       </table>
